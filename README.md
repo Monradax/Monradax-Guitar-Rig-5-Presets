@@ -19,7 +19,7 @@ Well, it's written on the tin innit?
 A stadium rock tone with some stereo separtation.
 
 ### Angry Whopper
-A twin reverb if you fucked it's wife.
+A twin reverb if you fucked it's wife. Hard indie Rock is at home here.
 
 ### Angrier Whopper
 A twin reverb if you fucked it's wife and it's sister.
