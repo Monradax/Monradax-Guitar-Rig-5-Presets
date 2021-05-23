@@ -1,6 +1,6 @@
 # Monradax's Guitar Rig 5 Presets
 
-##Clean
+## Clean
 
 ### I'm Acoustic 
 This setting puts you on the spectrum of acoustic tones when used with a Piezo pickup
@@ -13,7 +13,7 @@ Well, it's written on the tin innit?
 
 
 
-##Rock
+## Rock
 
 ### Radium Stadium
 A stadium rock tone with some stereo separtation.
@@ -68,7 +68,7 @@ The way you actually want your crunch wrap supreme when mom doesn't mind spendin
 
 
 
-##Heavy
+## Heavy
 
 ### Moldy Basement
 Heavy sound, a little fizzy in the top end, based on a Peavy 5150
